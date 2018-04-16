@@ -1,0 +1,14 @@
+.chart{
+	width:600px;
+	height: 471px;
+	float: left;
+	margin-left: 20px;
+	border-width: 10px;
+	border-color: black;
+	border: solid;
+	margin-top: 5px;
+}
+.caption{
+	margin-left: 10px;
+	margin-right: 10px;
+}
