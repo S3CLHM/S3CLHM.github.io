@@ -7,8 +7,9 @@
 	border-color: black;
 	border: solid;
 	margin-top: 5px;
+	background-color: rgba(227, 227, 227, 0.4);
 }
 .caption{
 	margin-left: 10px;
-	margin-right: 10px;
+	margin-right: 5px;
 }
